@@ -5,6 +5,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Thin.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Thin.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Thin.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Thin.ttf') format('truetype');
 }
 @font-face {
@@ -14,6 +15,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-ExtraLight.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-ExtraLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-ExtraLight.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-ExtraLight.ttf') format('truetype');
 }
 @font-face {
@@ -23,6 +25,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Light.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Light.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Light.ttf') format('truetype');
 }
 @font-face {
@@ -32,6 +35,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Regular.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Regular.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Regular.ttf') format('truetype');
 }
 @font-face {
@@ -41,6 +45,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Medium.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Medium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Medium.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Medium.ttf') format('truetype');
 }
 @font-face {
@@ -50,6 +55,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-SemiBold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-SemiBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-SemiBold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-SemiBold.ttf') format('truetype');
 }
 @font-face {
@@ -59,6 +65,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Bold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-Bold.ttf') format('truetype');
 }
 @font-face {
@@ -68,5 +75,6 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-ExtraBold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-ExtraBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-ExtraBold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRNerd/MonoplexKRNerd-ExtraBold.ttf') format('truetype');
 }
